@@ -1,0 +1,8 @@
+{
+    "domain": "https://zshopclone7.cmsnt.net",      | TÊN MIỀN 
+    "code": "66159c312bd41",                        | MÃ KHO Lấy Ở [DOMAIN/?module=admin&action=products]
+    "api_key": "864829a2aded4fcaa4b3fa7734478fbe",  | API KEY CÓ QUYỀN ADMIN
+    "path_to_file_data": "data.txt",                | PATH TỚI FILE DATA , CÓ THỂ NHẬP FULL ĐƯỜNG DẪN , YÊU CẦU SỬ DỤNG / THAY VÌ \
+    "time_delay": 3,                                | THỜI GIAN DỪNG GIỮA MỖI LẦN KIỂM TRA
+    "row_count": 16                                 | SỐ HÀNG ĐÃ ĐẨY LÊN , RESET VỀ 0 NẾU NHƯ CHỌN FILE MỚI HOẶC VỪA CLEAR DATA
+}
